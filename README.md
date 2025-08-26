@@ -1,4 +1,4 @@
-# IOS TTPG Account Management Software
+# Account Management Software
 
 ![Account Management Banner](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest&logoColor=white) ![Accounting](https://img.shields.io/badge/Accounting-Software-blue?style=for-the-badge)
 
