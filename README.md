@@ -51,8 +51,7 @@ This software is ideal for small to medium-sized businesses needing a scalable a
 ### Steps
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/ios-ttpg-account-management.git
-   cd ios-ttpg-account-management
+   git clone https://github.com/rajsekharacharya/Financial-accounting.git
    ```
 
 2. **Configure Application Properties**:
@@ -134,7 +133,7 @@ Apache 2.0 - See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 - **Author**: Rajsekhar Acharya
-- **Email**: rajsekhar.acharya@example.com (placeholder)
-- **GitHub**: [https://github.com/yourusername/resource-forge](https://github.com/yourusername/resource-forge)
+- **Email**: rajsekhar.acharya@gmail.com (placeholder)
+- **GitHub**: [https://github.com/rajsekharacharya/Financial-accounting](https://github.com/rajsekharacharya/Financial-accounting)
 
 ⭐ Star the repo if you find it useful!
